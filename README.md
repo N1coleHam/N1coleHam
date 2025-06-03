@@ -2,7 +2,7 @@
 
 <pre>
  ~> <strong>Info about Me</strong> ⚘⋆.˚⊹
-    Code: Java | Python  | R| SQL | MATLAB | JavaScript | HTML | CSS
+    Code: Java | Python | R | SQL | MATLAB | JavaScript | HTML | CSS
     Tools: Linux | Git | Microsoft Azure | Terminal | Google Suite | Microsoft Office
     Email: <a href="mailto:nicole.xi.ham@gmail.com">nicole.xi.ham@gmail.com</a>
 
