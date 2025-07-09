@@ -2,8 +2,9 @@
 
 <pre>
  ~> <strong>Info about Me</strong> ⚘⋆.˚⊹
-    Code: Java | Python | R | SQL | MATLAB | JavaScript | HTML | CSS
-    Tools: Linux | Git | Microsoft Azure | Terminal | Google Suite | Microsoft Office
+    Languages: Java, Python, SQL, R, MATLAB, JavaScript, CSS, HTML
+    Libraries/Frameworks: scikit-learn, NLTK, pandas, numpy, beautiful soup, matplotlib, seaborn, regex, react, bootstrap
+    Tools: Git, GitHub, Microsoft Azure, SQLite, Google Suite, Microsoft Office, Google Sheets, Figma
     Email: <a href="mailto:nicole.xi.ham@gmail.com">nicole.xi.ham@gmail.com</a>
 
  ~> <strong>ls links</strong> 𖧧.𖥔 ݁₊
