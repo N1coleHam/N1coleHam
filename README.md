@@ -9,6 +9,6 @@
 
  ~> <strong>ls links</strong> 𖧧.𖥔 ݁₊
      Linkedin:      <a rel=me href="https://www.linkedin.com/in/nicole-ham-80aa99310">https://www.linkedin.com/in/nicole-ham-80aa99310</a>
-     Email: <a href="mailto:nicole.xi.ham@gmail.com">nicole.xi.ham@gmail.com</a>
+     Email:         <a href="mailto:nicole.xi.ham@gmail.com">nicole.xi.ham@gmail.com</a>
      Portfolio:     <a href=""> ~ In progress ~ </a>
 </pre>
