@@ -2,9 +2,9 @@
 
 <pre>
  ~> <strong>Info about Me</strong> ⚘⋆.˚⊹
-    🎋⋆｡  <em>Programming Languages</em>: Python| JavaScript| Java | SQL | R | MATLAB | HTML | CSS
+    🎋⋆˚₊ <em>Programming Languages</em>: Python| JavaScript| Java | SQL | R | MATLAB | HTML | CSS
       
-    𖦹｡˚  <em>Frameworks & Libraries</em>: PyTorch | React | scikit-learn | pandas | polars | numpy | matplotlib | 
+    𖦹 ｡˚ <em>Frameworks & Libraries</em>: PyTorch | React | scikit-learn | pandas | polars | numpy | matplotlib | 
           seaborn | NLTK | Next.js | Node.js | Tailwind CSS | Firebase | BeautifulSoup | Framer Motion
       
     🌿˚₊ <em>Cloud & DevOps</em>: Google Cloud | AWS | Microsoft Azure | Firebase | Docker | Git| Figma | Amplitude
