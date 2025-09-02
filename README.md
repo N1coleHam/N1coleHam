@@ -3,9 +3,12 @@
 <pre>
  ~> <strong>Info about Me</strong> ⚘⋆.˚⊹
     <em>Programming Languages</em>: Python| JavaScript| Java | SQL | R | MATLAB | HTML | CSS
+    ─ ✦˚₊‧ ─
     <em>Frameworks & Libraries</em>: PyTorch | React | scikit-learn | pandas | polars | numpy | matplotlib | 
           seaborn | NLTK | Next.js | Node.js | Tailwind CSS | Firebase | BeautifulSoup | Framer Motion
+    ─ ✦˚₊‧ ─
     <em>Cloud & DevOps</em>: Google Cloud | AWS | Microsoft Azure | Firebase | Docker | Git| Figma | Amplitude
+    ─ ✦˚₊‧ ─
     <em>Specializations</em>: Machine Learning | Data Visualization | REST APIs | Real-time Databases |
           A/B Testing | Accessibility-first Design | Statistical Analysis
 
